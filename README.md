@@ -16,7 +16,7 @@ The program outputs:
 ## Customization
 
 - **MAX_DEPTH**: Adjust the depth of the minimax tree by modifying the `MAX_DEPTH` variable in the script.
-- **Evaluation Function**: Tweak the AI’s strategy by customizing the `eval_fn` function in `backgammon_ai.py`.
+- **Evaluation Function**: Tweak the AI’s strategy by customizing the `eval_fn` function in `backgammon.py`.
 
 ## Contributing
 
